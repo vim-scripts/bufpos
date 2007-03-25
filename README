@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1836
+
+This script provides a function to activate a vim buffer by passing it the position in the buffers list and maps it to <M-number> to easily switch between open buffers.
+
+This is best used together with the buftabs plugin: http://www.vim.org/scripts/script.php?script_id=1664
+And even better with my slightly modified version: http://blog.micampe.it/articles/2007/03/28/enhanced-buftabs-vim-plugin
+
+Explanation here: http://blog.micampe.it/articles/2007/03/25/tabs-in-vim-and-my-first-plugin
